@@ -3,7 +3,7 @@
 
 int main(void){
   
-  const char *file = "/home/voldermort/Documents/cpro/c-journey/file.c";
+  const char *file = "/home/dir/one.c";
   const char *buffer = "Where we at with it";
 
   FILE* fp = fopen( file, "w+" );
